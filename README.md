@@ -2,7 +2,10 @@
 layout: post
 title: IWCMAR 2019
 ---
-## Welcome to GitHub Pages
+
+## IWCMAR 2019
+
+2nd International Workshop on Computational Models of Affordances in Robotics
 
 You can use the [editor on GitHub](https://github.com/r1d1/iwcmar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
