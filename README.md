@@ -1,3 +1,7 @@
+---
+layout: post
+title: IWCMAR 2019
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/r1d1/iwcmar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
