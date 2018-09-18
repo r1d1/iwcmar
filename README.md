@@ -93,7 +93,7 @@ The accepted papers are listed as follows:
   * Claire Michaels (Psychology)
   * Anna Borghi (Psychology, Philosophy)
   
-  
+ 
  ### Information
  
  To be updated: 
