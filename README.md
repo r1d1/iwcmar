@@ -1,8 +1,3 @@
----
-layout: post
-title: IWCMAR 2019
----
-
 ## IWCMAR 2019
 
 2nd International Workshop on Computational Models of Affordances in Robotics
