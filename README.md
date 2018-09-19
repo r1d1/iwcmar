@@ -7,11 +7,16 @@ Firstly, we will provide an overview of the state-of-the-art in affordance resea
 Secondly, we will encourage our speakers to debate whether computational models of affordance can potentially be advanced by adopting approaches that are more congruent with Gibson’s original conception of direct perception.
 
 
-### Survey
+### Previous edition
+
+This workshp proposal is a sequel to the 1st edition of the International Workshop on Computational Models of Affordances in Robotics at RSS 2018. The rich and interdisciplinary discussions that took place there call for a second edition. Additionally, as the survey below shows [1], affordances are a topic of high interest in robotics, immediatly showing that such an interdisciplinary workshop is of high relevance to advance affordance research in robotics.
+
 
 The workshop organizers recently conducted a systematic literature survey on computational models of affordance in robotics [1]. All papers considered in the survey (146) were classified under a detailed taxonomy that considers a comprehensive array of criteria relating to the study of affordances in the literature. The full results of the study have been published online in a database that is continuously updated with new publications.
 
-It is hoped that some of the results that have emerged from this survey can form the inception point of the thematic basis of the workshop. Have certain aspects of the computational modeling of affordance been neglected in favour of others? Are certain types of models superior to others in the study of affordances and, if so, under what circumstances? These are questions that the survey asks and hints at tentative answers to, but that the workshop can field the detailed and fruitful discussion of amongst world-leading cross-disciplinary experts, with the goal of fostering focused future research directions for ultimately solving the affordance learning problem in robotics.
+*It is hoped that some of the results that have emerged from this survey can form the inception point of the thematic basis of the workshop. Have certain aspects of the computational modeling of affordance been neglected in favour of others? Are certain types of models superior to others in the study of affordances and, if so, under what circumstances? These are questions that the survey asks and hints at tentative answers to, but that the workshop can field the detailed and fruitful discussion of amongst world-leading cross-disciplinary experts, with the goal of fostering focused future research directions for ultimately solving the affordance learning problem in robotics.
+
+For a in-depth review of affordances in robotics, we kindly redirect interested readers to the following survey:
 
 Philipp Zech, Simon Haller, Safoura Rezapour Lakani, Barry Ridge, Emre Ugur, Justus Piater, [Computational models of affordance in robotics: a taxonomy and systematic classification.](https://iis.uibk.ac.at/public/papers/Zech-2017-AB.pdf) Adaptive Behavior, 25 (5), pp. 235–271, 2017. [SAGE](http://journals.sagepub.com/doi/10.1177/1059712317726357). 
 
