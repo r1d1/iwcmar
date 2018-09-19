@@ -1,24 +1,31 @@
 ## Abstract
 
-Gibson’s theory of affordance, in its adherence to bottom-up direct perception, is antithetical to the top-down inferential models often proposed by modern robotics research purporting to tackle it. Such research assumes internal representation to be sacrosanct, but given current developments, to what extent can this assumption now be reexamined? The recently proposed sensorimotor contingency theory furthers the theoretical argument that internal representation is unnecessary, and its proof-of-concept application in robotics as well as the subsequent explosion in deep learning methodology sheds new light on the possibility of equipping robots with the capacity for directly perceiving their environments by exploiting correlated changes in their sensory inputs triggered by executing specific motor programs. This reexamination of direct perception is only one of several issues warranting scrutiny in current robotic affordance research. The aim of this workshop is therefore twofold.
+Gibson's theory of affordance, in its adherence to bottom-up direct perception, is
+antithetical to the top-down inferential models often proposed by modern robotics
+research purporting to tackle it. Such research assumes internal representation to
+be sacrosanct, but given current developments, to what extent can this assumption
+now be reexamined? The recently proposed sensorimotor contingency theory furthers
+the theoretical argument that internal representation is unnecessary, and its
+proof-of-concept application in robotics as well as the subsequent explosion in
+deep learning methodology sheds new light on the possibility of equipping robots
+with the capacity for directly perceiving their environments by exploiting correlated
+changes in their sensory inputs triggered by executing specific motor programs. This
+reexamination of direct perception is only one of several issues warranting scrutiny
+in current robotic affordance research. The aim of this workshop is therefore twofold.
 
-Firstly, we will provide an overview of the state-of-the-art in affordance research and dissect open research challenges yielded thereof.
+Firstly, we will provide an overview of the state-of-the-art in affordance research
+and dissect open research challenges yielded thereof. 
 
-Secondly, we will encourage our speakers to debate whether computational models of affordance can potentially be advanced by adopting approaches that are more congruent with Gibson’s original conception of direct perception.
+Secondly, we will encourage our speakers to debate whether computational models of
+affordance can potentially be advanced by adopting approaches that are more congruent
+with Gibson's original conception of direct perception. 
 
 
 ### Previous edition
 
-This workshp proposal is a sequel to the 1st edition of the International Workshop on Computational Models of Affordances in Robotics at RSS 2018. The rich and interdisciplinary discussions that took place there call for a second edition. Additionally, as the survey below shows [1], affordances are a topic of high interest in robotics, immediatly showing that such an interdisciplinary workshop is of high relevance to advance affordance research in robotics.
+This workshop proposal is a sequel to the 1st edition of the International Workshop on Computational Models of Affordance in Robotics at RSS 2018. The rich and interdisciplinary discussions that took place there call for a second edition. Additionally, as the survey below shows [1], affordances are a topic of high interest in robotics, readily showing that such an interdisciplinary workshop is of high relevance to advance affordance research in robotics.
 
-
-The workshop organizers recently conducted a systematic literature survey on computational models of affordance in robotics [1]. All papers considered in the survey (146) were classified under a detailed taxonomy that considers a comprehensive array of criteria relating to the study of affordances in the literature. The full results of the study have been published online in a database that is continuously updated with new publications.
-
-*It is hoped that some of the results that have emerged from this survey can form the inception point of the thematic basis of the workshop. Have certain aspects of the computational modeling of affordance been neglected in favour of others? Are certain types of models superior to others in the study of affordances and, if so, under what circumstances? These are questions that the survey asks and hints at tentative answers to, but that the workshop can field the detailed and fruitful discussion of amongst world-leading cross-disciplinary experts, with the goal of fostering focused future research directions for ultimately solving the affordance learning problem in robotics.
-
-For a in-depth review of affordances in robotics, we kindly redirect interested readers to the following survey:
-
-Philipp Zech, Simon Haller, Safoura Rezapour Lakani, Barry Ridge, Emre Ugur, Justus Piater, [Computational models of affordance in robotics: a taxonomy and systematic classification.](https://iis.uibk.ac.at/public/papers/Zech-2017-AB.pdf) Adaptive Behavior, 25 (5), pp. 235–271, 2017. [SAGE](http://journals.sagepub.com/doi/10.1177/1059712317726357). 
+[1] Philipp Zech, Simon Haller, Safoura Rezapour Lakani, Barry Ridge, Emre Ugur, Justus Piater, [Computational models of affordance in robotics: a taxonomy and systematic classification.](https://iis.uibk.ac.at/public/papers/Zech-2017-AB.pdf) Adaptive Behavior, 25 (5), pp. 235–271, 2017. [SAGE](http://journals.sagepub.com/doi/10.1177/1059712317726357). 
 
 ### Topics
 
@@ -54,9 +61,9 @@ Participants are invited to submit contributions related to the aforementioned t
 
 Important dates:
 
-  * Extended Submission Deadline: XXX, Y 2018
-  * Notification of Acceptance: XXX, Y, 2018
-  * Camera ready submission: XXX, Y, 2018 
+  * Extended Submission Deadline: XXX, Y 2019
+  * Notification of Acceptance: XXX, Y, 2019
+  * Camera ready submission: XXX, Y, 20189
 
 Submission are expected to follow the official ICRA style available at [To be updated](). Submissions are done via Microsoft CMT at [To be updated](https://cmt3.research.microsoft.com/IWCMAR2019)
 
