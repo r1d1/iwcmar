@@ -101,9 +101,10 @@ The accepted papers are listed as follows:
   * Yiannis Aloimonos (Robotics) [Confirmed]
   * Tamim Asfour  (Robotics) [Confirmed]
   * Paul Cisek (Neuroscience) [Confirmed]
+  * Erhan Oztop (Robotics)
   * Tony Chemero (Philosophy, Cognitive Science)
   * Claire Michaels (Psychology)
-  * Anna Borghi (Psychology, Philosophy)
+  
   
  
 ### Information
