@@ -106,7 +106,7 @@ The accepted papers are listed as follows:
   * Anna Borghi (Psychology, Philosophy)
   
  
- ### Information
+### Information
  
  To be updated: 
  
