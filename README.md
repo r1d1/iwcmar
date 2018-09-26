@@ -101,7 +101,7 @@ The accepted papers are listed as follows:
   * Yiannis Aloimonos (Robotics) [Confirmed]
   * Tamim Asfour  (Robotics) [Confirmed]
   * Paul Cisek (Neuroscience) [Confirmed]
-  * Verene V. Hafner (Robotics) [Pending]
+  * Verena V. Hafner (Robotics) [Pending]
   * Tony Chemero (Philosophy, Cognitive Science) [Pending]
   * Claire Michaels (Psychology) [Pending]
   
