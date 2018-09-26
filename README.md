@@ -71,7 +71,7 @@ All submissions will be peer-reviewed. Accepted papers will be presented during 
 
 ### Special Issue
 
-A *Frontiers in NeuroRobotics* special issue is __planned to be organized__ in tandem with the workshop.
+A *Frontiers in NeuroRobotics* special issue is __will be organized__ in tandem with the workshop.
 
 While workshop contributors will be invited to submit extended versions of their workshop papers, general submissions will also be welcome.
 
@@ -105,8 +105,24 @@ The accepted papers are listed as follows:
   * Tony Chemero (Philosophy, Cognitive Science) [Pending]
   * Claire Michaels (Psychology) [Pending]
   
-  
- 
+### Tentative schedule
+| Time        | Activity                                       |
+|-------------|------------------------------------------------|
+| 8:30-9:00   | Welcome                                        |
+| 9:00 - 9:30 | Invited Talk                                   |
+| 9:30-10:00  | Invited Talk                                   |
+| 10:00-10:30 | Coffee break                                   |
+| 10:30-11:00 | Invited Talk                                   |
+| 11:00-11:30 | Invited Talk                                   |
+| 11:30-12:00 | Time buffer for discussion after invited talks |
+| 12:00-13:30 | Lunch break                                    |
+| 13:30-14:00 | Invited talk                                   |
+| 14:00-14:30 | Invited talk                                   |
+| 14:30-15:30 | Poster session                                 |
+| 15:30-16:00 | Coffee break                                   |
+| 16:00-17:00 | Plenary discussion                             |
+| 17:00-17:30 | Farewell                                       |
+    
 ### Information
  
  To be updated: 
