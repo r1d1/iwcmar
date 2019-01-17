@@ -71,7 +71,7 @@ All submissions will be peer-reviewed. Accepted papers will be presented during 
 
 ### Special Issue
 
-A *Frontiers in NeuroRobotics* special issue is __will be organized__ in tandem with the workshop.
+A *Frontiers in NeuroRobotics* special issue __will be organized__ in tandem with the workshop.
 
 While workshop contributors will be invited to submit extended versions of their workshop papers, general submissions will also be welcome.
 
@@ -122,6 +122,7 @@ The accepted papers are listed as follows:
 | 15:30-16:00 | Coffee break                                    |
 | 16:00-17:00 | Plenary discussion                              |
 | 17:00-17:30 | Farewell                                        |
+|-------------|-------------------------------------------------|
     
 ### Information
  
