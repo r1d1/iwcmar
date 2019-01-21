@@ -109,9 +109,9 @@ The accepted papers are listed as follows:
 
 | Time        | Activity                                        |
 | --- | --- |
-| 8:30-9:00   | Welcome                                         |
-| 9:00 - 9:30 | Invited Talk                                    |
-| 9:30-10:00  | Invited Talk                                    |
+| 08:30-09:00   | Welcome                                         |
+| 09:00-09:30 | Invited Talk                                    |
+| 09:30-10:00  | Invited Talk                                    |
 | 10:00-10:30 | Coffee break                                    |
 | 10:30-11:00 | Invited Talk                                    |
 | 11:00-11:30 | Invited Talk                                    |
