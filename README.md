@@ -107,7 +107,7 @@ The accepted papers are listed as follows:
   
 ### Tentative schedule
 | Time        | Activity                                        |
-|-------------|-------------------------------------------------|
+| --- | --- |
 | 8:30-9:00   | Welcome                                         |
 | 9:00 - 9:30 | Invited Talk                                    |
 | 9:30-10:00  | Invited Talk                                    |
@@ -122,7 +122,7 @@ The accepted papers are listed as follows:
 | 15:30-16:00 | Coffee break                                    |
 | 16:00-17:00 | Plenary discussion                              |
 | 17:00-17:30 | Farewell                                        |
-|-------------|-------------------------------------------------|
+| --- | --- |
     
 ### Information
  
