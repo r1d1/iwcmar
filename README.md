@@ -64,6 +64,7 @@ Important dates:
   * Extended Submission Deadline: DD.MM. 2019
   * Notification of Acceptance: DD.MM. 2019
   * Camera ready submission: DD.MM. 2019
+  * Workshop: 23 or 24 May 2019
 
 Submission are expected to follow the official ICRA style available at [To be updated](). Submissions are done via Microsoft CMT at [To be updated](https://cmt3.research.microsoft.com/IWCMAR2019)
 
