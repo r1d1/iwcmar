@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+.main-content
+{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 .project-name
 {
     //color: #FF0000;
