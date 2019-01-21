@@ -106,6 +106,7 @@ The accepted papers are listed as follows:
   * Claire Michaels (Psychology) [Pending]
   
 ### Tentative schedule
+
 | Time        | Activity                                        |
 | --- | --- |
 | 8:30-9:00   | Welcome                                         |
