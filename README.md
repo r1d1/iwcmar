@@ -75,14 +75,12 @@ and uploaded via the Microsoft CMT conference management system at
 
 Submission are expected to follow the official ICRA style available at https://www.ieee.org/conferences/publishing/templates.html. Submissions are done via Microsoft CMT at https://cmt3.research.microsoft.com/IWCMAR2019.
 
-All submissions will be peer-reviewed. Accepted papers will be presented during the workshop in a poster session. Outstanding papers will be presented as oral spotlight talks and invited to submit an extended version to a special issue of Frontiers in Neurorobotics on "Computational Models of Affordance for Robotics" __(to be updated, see below)__, a journal published by Frontiers. The review process for the journal is independent from the review for this workshop. 
+All submissions will be peer-reviewed. Accepted papers will be presented during the workshop in a poster session. Outstanding papers will be presented as oral spotlight talks and invited to submit an extended version to a special issue of Frontiers in Neurorobotics on "Computational Models of Affordance for Robotics", a journal published by Frontiers. The review process for the journal is independent from the review for this workshop. 
 
 
 ### Special Issue
 
-A *Frontiers in NeuroRobotics* special issue is being organized in tandem with the workshop.
-
-While workshop contributors will be invited to submit extended versions of their workshop papers, general submissions will also be welcome.
+A *Frontiers in NeuroRobotics* special issue is being organized in tandem with the workshop. While workshop contributors will be invited to submit extended versions of their workshop papers, general submissions will also be welcome.
 
 Stay tuned for further announcements. 
    
@@ -91,7 +89,7 @@ Stay tuned for further announcements.
 
 The accepted papers are listed as follows:
 
-  * To be filled after camera notification.
+  * To be populated after camera ready submission deadline.
   
   
 ### Expected speakers
