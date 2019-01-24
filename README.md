@@ -54,10 +54,10 @@ This workshop proposal is a sequel to the 1st edition of the International Works
 ### Call for Contributions
 
 Participants are invited to submit contributions related to the aforementioned topics in one of the following categories:
-  A) Extended abstract (maximum 2 pages in length)
-  B) Full paper (maximum 8 pages in length)
+  * Extended abstract (maximum 2 pages in length)
+  * Full paper (maximum 8 pages in length)
 
-Important dates:
+#### Important dates:
 
   * Submission Deadline: 01.05.2019
   * Notification of Acceptance: 07.05.2019
@@ -70,7 +70,7 @@ All submissions will be peer-reviewed. Accepted papers will be presented during 
 
 ### Special Issue
 
-A *Frontiers in NeuroRobotics* special issue __will be organized__ in tandem with the workshop.
+A *Frontiers in NeuroRobotics* special issue is being organized in tandem with the workshop.
 
 While workshop contributors will be invited to submit extended versions of their workshop papers, general submissions will also be welcome.
 
@@ -79,21 +79,20 @@ Stay tuned for further announcements.
 
 ### Submission
 
-Submissions must be in PDF following the ICRA style available at:
+Submissions must be in PDF following the ICRA style available from
 
-   [To be updated](http://www.roboticsconference.org/docs/paper-template-latex.tar.gz)
+   https://www.ieee.org/conferences/publishing/templates.html
    
 and uploaded via the Microsoft CMT conference management system at
 
    https://cmt3.research.microsoft.com/IWCMAR2019
    
-Submission is not open yet !
 
 ### Papers
 
 The accepted papers are listed as follows:
 
-  * Not item yet !
+  * To be filled after camera notification.
   
 ### Expected speakers
 
@@ -131,3 +130,16 @@ The accepted papers are listed as follows:
    * Agenda
    * Organizers
    * Venue
+   
+### Organizers
+* [Philipp Zech](philipp.zech@uibk.ac.at) is a postdoctoral researcher at the University of
+	Innsbruck. He received his Ph.D. degree in Computer Science
+	from the University of Innsbruck in 2014. He is interested in
+	developmental and cognitive robotics, affordance learning and
+	intelligent and adaptive manipulation. He has already published
+	more than 30 papers in international journals and conferences,
+	two of which have received best-paper awards. He recently joined the
+	editorial board of Adaptive Behavior as an associate editor.
+* [Erwan Renaudo]
+* [Peter Kaiser]
+* [Raja Chatila]
