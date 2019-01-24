@@ -1,5 +1,3 @@
-## Abstract
-
 Gibson's theory of affordance, in its adherence to bottom-up direct perception, is
 antithetical to the top-down inferential models often proposed by modern robotics
 research purporting to tackle it. Such research assumes internal representation to
