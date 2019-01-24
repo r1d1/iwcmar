@@ -94,9 +94,9 @@ The accepted papers are listed as follows:
   
 ### Invited speakers
 
-  * Yiannis Aloimonos
-  * Tamim Asfour
-  * Paul Cisek
+  * Yiannis Aloimonos (Perception and Robotics Group, University of Maryland)
+  * Tamim Asfour (Institute for Anthropomatics and Robotics, High Performance Humanoid Technologies, Karlsruhe Institute of Technology )
+  * Paul Cisek (Department of Neuroscience, University of Montréal)
   * TBA
   * TBA
   * TBA
