@@ -132,15 +132,15 @@ The accepted papers are listed as follows:
    * Venue
    
 ### Organizers
-* <Philipp Zech>(philipp.zech@uibk.ac.at) is a postdoctoral researcher at the University of
+* [Philipp Zech](mailto:philipp.zech@uibk.ac.at) is a postdoctoral researcher at the University of
 	Innsbruck. He received his Ph.D. degree in Computer Science
 	from the University of Innsbruck in 2014. He is interested in
 	developmental and cognitive robotics, affordance learning and
 	intelligent and adaptive manipulation. He has already published
 	more than 30 papers in international journals and conferences,
-	two of which have received best-paper awards. He recently joined the
-	editorial board of Adaptive Behavior as an associate editor.
-* <Erwan Renaudo>(erwan.renaudo@uibk.ac.at) is a postdoctoral researcher at the University 
+	two of which have received best-paper awards. He currently serves as an 
+	associate editor for Adaptive Behavior.
+* [Erwan Renaudo](mailto:erwan.renaudo@uibk.ac.at) is a postdoctoral researcher at the University 
 	of Innsbruck. He completed his PhD degree in 2016 at Pierre and 
         Marie Curie University where he worked on bio-inspired robotic 
         architectures with ensemble reinforcement learning. His research 
