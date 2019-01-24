@@ -25,6 +25,7 @@ This workshop proposal is a sequel to the 1st edition of the International Works
 
 [1] Philipp Zech, Simon Haller, Safoura Rezapour Lakani, Barry Ridge, Emre Ugur, Justus Piater, [Computational models of affordance in robotics: a taxonomy and systematic classification.](https://iis.uibk.ac.at/public/papers/Zech-2017-AB.pdf) Adaptive Behavior, 25 (5), pp. 235–271, 2017. [SAGE](http://journals.sagepub.com/doi/10.1177/1059712317726357). 
 
+
 ### Topics
 
   * Affordance learning
@@ -56,8 +57,16 @@ This workshop proposal is a sequel to the 1st edition of the International Works
 Participants are invited to submit contributions related to the aforementioned topics in one of the following categories:
   * Extended abstract (maximum 2 pages in length)
   * Full paper (maximum 8 pages in length)
+  
+Submissions must be in PDF following the ICRA style available from
 
-#### Important dates:
+   https://www.ieee.org/conferences/publishing/templates.html
+   
+and uploaded via the Microsoft CMT conference management system at
+
+   https://cmt3.research.microsoft.com/IWCMAR2019
+
+### Important dates:
 
   * Submission Deadline: 01.05.2019
   * Notification of Acceptance: 07.05.2019
@@ -68,6 +77,7 @@ Submission are expected to follow the official ICRA style available at https://w
 
 All submissions will be peer-reviewed. Accepted papers will be presented during the workshop in a poster session. Outstanding papers will be presented as oral spotlight talks and invited to submit an extended version to a special issue of Frontiers in Neurorobotics on "Computational Models of Affordance for Robotics" __(to be updated, see below)__, a journal published by Frontiers. The review process for the journal is independent from the review for this workshop. 
 
+
 ### Special Issue
 
 A *Frontiers in NeuroRobotics* special issue is being organized in tandem with the workshop.
@@ -75,17 +85,6 @@ A *Frontiers in NeuroRobotics* special issue is being organized in tandem with t
 While workshop contributors will be invited to submit extended versions of their workshop papers, general submissions will also be welcome.
 
 Stay tuned for further announcements. 
-
-
-### Submission
-
-Submissions must be in PDF following the ICRA style available from
-
-   https://www.ieee.org/conferences/publishing/templates.html
-   
-and uploaded via the Microsoft CMT conference management system at
-
-   https://cmt3.research.microsoft.com/IWCMAR2019
    
 
 ### Papers
@@ -94,16 +93,22 @@ The accepted papers are listed as follows:
 
   * To be filled after camera notification.
   
+  
 ### Expected speakers
 
   * Yiannis Aloimonos (Robotics) [Confirmed]
-  * Tamim Asfour  (Robotics) [Confirmed]
+  * Tamim Asfour (Robotics) [Confirmed]
   * Paul Cisek (Neuroscience) [Confirmed]
   * TBA
   * TBA
   * TBA
   
+  
 ### Tentative schedule
+
+The final schedule will be publish upon finalization of the list of speakers. 
+
+Stay tuned for further announcements,
 
 | Time        | Activity                                        |
 | --- | --- |
@@ -123,13 +128,11 @@ The accepted papers are listed as follows:
 | 17:00-17:30 | Farewell                                        |
 | --- | --- |
     
-### Information
- 
- To be updated: 
- 
-   * Agenda
-   * Organizers
-   * Venue
+    
+### Venue
+
+Please check out https://www.icra2019.org/montreal-travel/conference-venue as well as https://www.icra2019.org/program/program-overview for detailed information on the workshop's location.
+   
    
 ### Organizers
 * [Philipp Zech](mailto:philipp.zech@uibk.ac.at) is a postdoctoral researcher at the University of
@@ -148,5 +151,5 @@ The accepted papers are listed as follows:
         He is particularly interested in autonomous behavior generation, 
         from action learning to coordination of habitual and goal-directed 
         behaviors.
-* [Peter Kaiser]
-* [Raja Chatila]
+* [Peter Kaiser](mailto:peter.kaiser@kit.edu) ...
+* [Raja Chatila](mailto:raja.chatila@isir.upmc.fr) ...
