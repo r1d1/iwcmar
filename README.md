@@ -92,11 +92,11 @@ The accepted papers are listed as follows:
   * To be populated after camera ready submission deadline.
   
   
-### Expected speakers
+### Invited speakers
 
-  * Yiannis Aloimonos (Robotics) [Confirmed]
-  * Tamim Asfour (Robotics) [Confirmed]
-  * Paul Cisek (Neuroscience) [Confirmed]
+  * Yiannis Aloimonos
+  * Tamim Asfour
+  * Paul Cisek
   * TBA
   * TBA
   * TBA
@@ -133,6 +133,7 @@ Please check out https://www.icra2019.org/montreal-travel/conference-venue as we
    
    
 ### Organizers
+
 * [Philipp Zech](mailto:philipp.zech@uibk.ac.at) is a postdoctoral researcher at the University of
 	Innsbruck. He received his Ph.D. degree in Computer Science
 	from the University of Innsbruck in 2014. He is interested in
