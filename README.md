@@ -150,5 +150,10 @@ Please check out https://www.icra2019.org/montreal-travel/conference-venue as we
         He is particularly interested in autonomous behavior generation, 
         from action learning to coordination of habitual and goal-directed 
         behaviors.
-* [Peter Kaiser](mailto:peter.kaiser@kit.edu) ...
+* [Peter Kaiser](mailto:peter.kaiser@kit.edu)  is a postdoctoral researcher at the High 
+	Performance Humanoid Technologies Lab of the Institute for Anthropomatics and 
+	Robotics, Karlsruhe Institute of Technology (KIT). He received his Ph.D. from KIT 
+	in 2017. His major research interests include the perception of action possibilities 
+	in unknown environments, as well as the planning and execution of whole-body actions 
+	that combine locomotion and manipulation in the context of humanoid robotics.
 * [Raja Chatila](mailto:raja.chatila@isir.upmc.fr) ...
