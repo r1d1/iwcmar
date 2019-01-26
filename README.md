@@ -64,7 +64,7 @@ Submissions must be in PDF following the ICRA style available from
    
 and uploaded via the Microsoft CMT conference management system at
 
-   [https://cmt3.research.microsoft.com/IWCMAR2019](https://cmt3.research.microsoft.com/IWCMAR2019)
+   [https://cmt3.research.microsoft.com/IWCMAR2019](https://cmt3.research.microsoft.com/IWCMAR2019).
 
 ### Important dates:
 
@@ -73,7 +73,7 @@ and uploaded via the Microsoft CMT conference management system at
   * Camera ready submission: 22.05.2019
   * Workshop: 23 or 24 May 2019
 
-Submission are expected to follow the official ICRA style available at [ttps://www.ieee.org/conferences/publishing/templates.html](ttps://www.ieee.org/conferences/publishing/templates.html). Submissions are done via Microsoft CMT at [https://cmt3.research.microsoft.com/IWCMAR2019](https://cmt3.research.microsoft.com/IWCMAR2019).
+Submission are expected to follow the official ICRA style available at [https://www.ieee.org/conferences/publishing/templates.html](ttps://www.ieee.org/conferences/publishing/templates.html). Contributions are to be submitted via Microsoft CMT at [https://cmt3.research.microsoft.com/IWCMAR2019](https://cmt3.research.microsoft.com/IWCMAR2019).
 
 All submissions will be peer-reviewed. Accepted papers will be presented during the workshop in a poster session. Outstanding papers will be presented as oral spotlight talks and invited to submit an extended version to a special issue of Frontiers in Neurorobotics on "Computational Models of Affordance for Robotics", a journal published by Frontiers. The review process for the journal is independent from the review for this workshop. 
 
@@ -129,7 +129,7 @@ Stay tuned for further announcements,
     
 ### Venue
 
-Please check out https://www.icra2019.org/montreal-travel/conference-venue as well as https://www.icra2019.org/program/program-overview for detailed information on the workshop's location.
+Please check out [https://www.icra2019.org/montreal-travel/conference-venue](https://www.icra2019.org/montreal-travel/conference-venue) as well as [https://www.icra2019.org/program/program-overview](https://www.icra2019.org/program/program-overview) for detailed information on the workshop's location.
    
    
 ### Organizers
