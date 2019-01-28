@@ -156,4 +156,10 @@ Please check out [https://www.icra2019.org/montreal-travel/conference-venue](htt
 	in 2017. His major research interests include the perception of action possibilities 
 	in unknown environments, as well as the planning and execution of whole-body actions 
 	that combine locomotion and manipulation in the context of humanoid robotics.
-* [Raja Chatila](mailto:raja.chatila@isir.upmc.fr) ...
+* [Raja Chatila](mailto:raja.chatila@isir.upmc.fr), IEEE Fellow, is Professor of Artificial 
+	Intelligence, Robotics and Ethics at Pierre and Marie Curie University in Paris, France. 
+	He is director of the SMART Laboratory of Excellence on Human-Machine Interactions and 
+	former director of the Institute of Intelligent Systems and Robotics. He contributed in 
+	several areas of Artificial Intelligence and autonomous and interactive Robotics along 
+	his career. His research interests currently focus on human-robot interaction, machine 
+	learning and ethics.
