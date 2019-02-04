@@ -97,7 +97,7 @@ The accepted papers are listed as follows:
   * Yiannis Aloimonos (Perception and Robotics Group, University of Maryland)
   * Tamim Asfour (High Performance Humanoid Technologies, Karlsruhe Institute of Technology)
   * Paul Cisek (Department of Neuroscience, University of Montréal)
-  * TBA
+  * Claire Michaels (Centre for the Ecological Study of Perception and Action, University of Connecticut)
   * TBA
   * TBA
   
