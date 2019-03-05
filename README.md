@@ -71,7 +71,7 @@ and uploaded via the Microsoft CMT conference management system at
   * Submission Deadline: 01.05.2019
   * Notification of Acceptance: 07.05.2019
   * Camera ready submission: 22.05.2019
-  * Workshop: 23 or 24 May 2019
+  * Workshop: 24.05.2019, 8:30--17:30, room 518a
 
 Submission are expected to follow the official ICRA style available at [https://www.ieee.org/conferences/publishing/templates.html](ttps://www.ieee.org/conferences/publishing/templates.html). Contributions are to be submitted via Microsoft CMT at [https://cmt3.research.microsoft.com/IWCMAR2019](https://cmt3.research.microsoft.com/IWCMAR2019).
 
