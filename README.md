@@ -98,7 +98,7 @@ The accepted papers are listed as follows:
   * Tamim Asfour (High Performance Humanoid Technologies, Karlsruhe Institute of Technology)
   * Paul Cisek (Department of Neuroscience, University of Montréal)
   * Claire Michaels (Centre for the Ecological Study of Perception and Action, University of Connecticut)
-  * TBA
+  * Erol Sahin (KOVAN Research Lab, Middle East Technical University, Turkey)
   * TBA
   
   
