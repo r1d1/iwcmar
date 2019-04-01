@@ -99,7 +99,7 @@ The accepted papers are listed as follows:
   * Paul Cisek (Department of Neuroscience, University of Montréal)
   * Claire Michaels (Centre for the Ecological Study of Perception and Action, University of Connecticut)
   * Erol Sahin (KOVAN Research Lab, Middle East Technical University, Turkey)
-  * TBA
+  * José Santos-Victor (Computer and Robot Vision Lab (VisLab), Instituto Superior Técnico, Lisboa)
   
   
 ### Tentative schedule
