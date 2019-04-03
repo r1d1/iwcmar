@@ -124,8 +124,6 @@ Stay tuned for further announcements,
 | 15:30-16:00 | Invited talk                     |
 | 16:00-17:30 | Plenary discussion               |
 | 17:30       | Farewell                         |
-| --- | --- |
-    
     
 ### Venue
 
