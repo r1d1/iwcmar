@@ -127,7 +127,7 @@ Stay tuned for further announcements,
     
 ### Venue
 
-Please check out [https://www.icra2019.org/montreal-travel/conference-venue](https://www.icra2019.org/montreal-travel/conference-venue) as well as [https://www.icra2019.org/program/program-overview](https://www.icra2019.org/program/program-overview) for detailed information on the workshop's location.
+Please check out [https://www.icra2019.org/montreal-travel/conference-venue](https://www.icra2019.org/montreal-travel/conference-venue) as well as [https://www.icra2019.org/program/program-overview](https://www.icra2019.org/program/program-overview) for detailed information on the workshop's location. The workshop will be in room 518a.
    
    
 ### Organizers
