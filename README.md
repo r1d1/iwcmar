@@ -110,18 +110,17 @@ Stay tuned for further announcements,
 
 | Time        | Activity                                        |
 | --- | --- |
-| 08:30-09:00   | Welcome                                         |
-| 09:00-09:30 | Invited Talk                                    |
-| 09:30-10:00  | Invited Talk                                    |
-| 10:00-10:30 | Coffee break                                    |
-| 10:30-11:00 | Invited Talk                                    |
-| 11:00-11:30 | Invited Talk                                    |
-| 11:30-12:00 | Time buffer for discussions after invited talks |
-| 12:00-13:30 | Lunch break                                     |
-| 13:30-14:00 | Invited talk                                    |
-| 14:00-14:30 | Invited talk                                    |
-| 14:30-15:30 | Poster session                                  |
-| 15:30-16:00 | Coffee break                                    |
+| 08:30-08:45 | Welcome                                         |
+| 08:45-09:30 | Invited Talk                                    |
+| 09:30-10:15 | Invited Talk                                    |
+| 10:15-10:30 | Coffee break                                    |
+| 10:30-11:15 | Invited Talk                                    |
+| 11:15-12:00 | Invited Talk                                    |
+| 12:30-13:30 | Lunch break                                     |
+| 13:30-14:15 | Invited talk                                    |
+| 14:15-15:00 | Invited talk                                    |
+| 15:00-16:00 | Poster session                                  |
+| 15:00-15:30 | Coffee break                                    |
 | 16:00-17:00 | Plenary discussion                              |
 | 17:00-17:30 | Farewell                                        |
 | --- | --- |
