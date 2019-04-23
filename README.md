@@ -82,7 +82,7 @@ All submissions will be peer-reviewed. Accepted papers will be presented during 
 
 A *Frontiers in NeuroRobotics* special issue is being organized in tandem with the workshop. While workshop contributors will be invited to submit extended versions of their workshop papers, general submissions will also be welcome.
 
-Stay tuned for further announcements. 
+The Special Issue page is available [here](https://www.frontiersin.org/research-topics/10337/computational-models-of-affordance-for-robotics)
    
 
 ### Papers
