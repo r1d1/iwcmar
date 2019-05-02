@@ -1,4 +1,4 @@
-# Tamim Asfour
+# Claire Michaels
 
 # Topic
 # Abstract
