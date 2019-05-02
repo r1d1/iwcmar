@@ -95,7 +95,7 @@ The accepted papers are listed as follows:
 ### Invited speakers
 
   * Yiannis Aloimonos (Perception and Robotics Group, University of Maryland)
-  * Tamim Asfour (High Performance Humanoid Technologies, Karlsruhe Institute of Technology)
+  * [Tamim Asfour](speaker-asfour.html) (High Performance Humanoid Technologies, Karlsruhe Institute of Technology)
   * Paul Cisek (Department of Neuroscience, University of Montréal)
   * Claire Michaels (Centre for the Ecological Study of Perception and Action, University of Connecticut)
   * Erol Sahin (KOVAN Research Lab, Middle East Technical University, Turkey)
