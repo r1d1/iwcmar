@@ -68,8 +68,8 @@ and uploaded via the Microsoft CMT conference management system at
 
 ### Important dates:
 
-  * Submission Deadline: 01.05.2019
-  * Notification of Acceptance: 07.05.2019
+  * Submission Deadline: ~~01.05.2019~~ 03.05.2019
+  * Notification of Acceptance: ~~07.05.2019~~ 09.05.2019
   * Camera ready submission: 22.05.2019
   * Workshop: 24.05.2019, 8:30--17:30, room 518a
 
