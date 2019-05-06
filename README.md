@@ -94,12 +94,12 @@ The accepted papers are listed as follows:
   
 ### Invited speakers
 
-  * Yiannis Aloimonos (Perception and Robotics Group, University of Maryland)
+  * [Yiannis Aloimonos](https://r1d1.github.io/iwcmar/speakers/aloimonos.html) (Perception and Robotics Group, University of Maryland)
   * [Tamim Asfour](https://r1d1.github.io/iwcmar/speakers/asfour.html) (High Performance Humanoid Technologies, Karlsruhe Institute of Technology)
-  * Paul Cisek (Department of Neuroscience, University of Montréal)
-  * Claire Michaels (Centre for the Ecological Study of Perception and Action, University of Connecticut)
-  * Erol Sahin (KOVAN Research Lab, Middle East Technical University, Turkey)
-  * José Santos-Victor (Computer and Robot Vision Lab (VisLab), Instituto Superior Técnico, Lisboa)
+  * [Paul Cisek](https://r1d1.github.io/iwcmar/speakers/cisek.html) (Department of Neuroscience, University of Montréal)
+  * [Claire Michaels](https://r1d1.github.io/iwcmar/speakers/michaels.html) (Centre for the Ecological Study of Perception and Action, University of Connecticut)
+  * [Erol Sahin](https://r1d1.github.io/iwcmar/speakers/sahin.html) (KOVAN Research Lab, Middle East Technical University, Turkey)
+  * [José Santos-Victor](https://r1d1.github.io/iwcmar/speakers/santos.html) (Computer and Robot Vision Lab (VisLab), Instituto Superior Técnico, Lisboa)
   
   
 ### Tentative schedule
