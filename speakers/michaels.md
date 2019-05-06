@@ -1,11 +1,10 @@
 # Claire F. Michaels
 
-<img style="float: right;width: 300px;margin-left: 15px;margin-top: 7px;" src="https://cespa.uconn.edu/wp-content/uploads/sites/2363/2018/04/claire.jpg" alt='Claire F. Michaels' />
-
 Center for the Ecological Study of Perception and Action
 
 University of Connecticut
 
+<img style="float: right;width: 300px;margin-left: 15px;margin-top: 0px;" src="https://cespa.uconn.edu/wp-content/uploads/sites/2363/2018/04/claire.jpg" alt='Claire F. Michaels' />
 
 ## Can Affordances be Detected, rather than Computed?
 
