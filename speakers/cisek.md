@@ -1,5 +1,11 @@
 # Paul Cisek
 
-# Topic
-# Abstract
+# The neurophysiology of affordances
+
+<img style="float: left;width: 300px;margin-right: 15px;margin-top: 0px;" src="http://www.cisek.org/pavel/index_files/image003.gif" alt='Paul Cisek' />
+
+In cognitive psychology and neuroscience, the functional organization of the brain is usually described in terms of information processing functions, including perceptual processes such as object recognition, cognitive processes such as decision-making, and motor processes such as trajectory execution. An alternative view, expressed in ecological psychology, perceptual control theory, and situated robotics, sees behavior as a closed-loop sensorimotor control system in which actions are taken to control perceptions by exploiting the opportunities for interaction that Gibson termed affordances. While most neurophysiological data is still interpreted using the former view, I will argue that it is actually much more consistent with the latter. In particular, neural activity does not appear to respect the borders between classical information processing functions, and mixes sensory, cognitive, and motor variables even within the firing pattern of individual cells. I will describe data suggesting that instead of classical concepts of explicit representations, neural activity is better interpreted in terms of mechanisms that use sensory information to specify currently available affordances and mechanisms that help to resolve selection between them, and that the fundamental role of the brain is not to build knowledge about the world but to control our interactions with the world.
+
 # Biography
+
+Paul Cisek was born in Poland and emigrated to the US as a child. While he was originally trained in computer science and artificial intelligence, he became more interested in natural intelligence and enrolled in graduate studies under the supervision of Stephen Grossberg and Daniel Bullock and Boston University, obtaining a PhD in computational neuroscience. He then became interested in empirical neuroscience, and joined the laboratories of Stephen Scott and John Kalaska to study the processes of selection, planning, and control of actions by recording neural activity in the cerebral cortex of monkeys. Since then, he has established his own laboratory at the University of Montreal, in which he combines these techniques to investigate the cortical and subcortical mechanisms controlling our interactions with the world.
