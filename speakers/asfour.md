@@ -1,7 +1,12 @@
 # Tamim Asfour
-## Institute for Anthropomatics and Robotics,
+Institute for Anthropomatics and Robotics,
+
 High Performance Humanoid Technologies,
+
 Karlsruhe Institute of Technology
+
+<img style="float: left;width: 300px;margin-right: 15px;margin-top: 0px;" src="http://h2t.anthropomatik.kit.edu/img/tamim.asfour.JPG" alt='Tamim Asfour' />
+
 
 # Topic
 
