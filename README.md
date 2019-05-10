@@ -68,14 +68,14 @@ and uploaded via the Microsoft CMT conference management system at
 
 ### Important dates:
 
-  * Submission Deadline: ~~01.05.2019~~ 03.05.2019
-  * Notification of Acceptance: ~~07.05.2019~~ 09.05.2019
+  * Submission Deadline: ~~03.05.2019~~
+  * Notification of Acceptance: ~~09.05.2019~~
   * Camera ready submission: 22.05.2019
   * Workshop: 24.05.2019, 8:30--17:30, room 518a
 
 Submission are expected to follow the official ICRA style available at [https://www.ieee.org/conferences/publishing/templates.html](ttps://www.ieee.org/conferences/publishing/templates.html). Contributions are to be submitted via Microsoft CMT at [https://cmt3.research.microsoft.com/IWCMAR2019](https://cmt3.research.microsoft.com/IWCMAR2019).
 
-All submissions will be peer-reviewed. Accepted papers will be presented during the workshop in a poster session. Outstanding papers will be presented as oral spotlight talks and invited to submit an extended version to a special issue of Frontiers in Neurorobotics on "Computational Models of Affordance for Robotics", a journal published by Frontiers. The review process for the journal is independent from the review for this workshop. 
+All submissions will be peer-reviewed. Accepted papers will be presented during the workshop in a poster session (A0 portrait format). Outstanding papers will be presented as oral spotlight talks and invited to submit an extended version to a special issue of Frontiers in Neurorobotics on "Computational Models of Affordance for Robotics", a journal published by Frontiers. The review process for the journal is independent from the review for this workshop. 
 
 
 ### Special Issue
