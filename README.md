@@ -83,29 +83,7 @@ All submissions will be peer-reviewed. Accepted papers will be presented during 
 A *Frontiers in NeuroRobotics* special issue is being organized in tandem with the workshop. While workshop contributors will be invited to submit extended versions of their workshop papers, general submissions will also be welcome.
 
 The Special Issue page is available [here](https://www.frontiersin.org/research-topics/10337/computational-models-of-affordance-for-robotics)
-   
 
-### Papers
-
-The accepted papers are listed as follows:
-
-  * An Affordance-based Action Planner for On-line and Concurrent Human-Robot Collaborative Assembly,
-     *Francesca Stramandinoli, Alessandro Roncone, Olivier Mangin, Francesco Nori, and Brian Scassellati*
-  * A Benchmarking Dataset for Automatic Symbolic Grounding from Virtual Demonstrations,
-     *Karinne Ramirez-Amaro, Constantin Uhde, Tamas Bates, Gordon Cheng*
-  * Towards Affordance Prediction with Vision via Task Oriented Grasp Quality Metrics,
-     *Luca Cavalli, Gianpaolo Di Pietro, Matteo Matteucci*
-  * Systematizing Gibsonian affordances in robotics: an empirical, generative approach derived from case studies in legged locomotion,
-     *Sonia F. Roberts, Daniel Koditschek, Lisa Miracchi*
-  * Generating object forms with desired affordances,
-     *Mihai Andries, Atabak Dehban, José Santos-Victor*
-  * Unsupervised Learning of Affordance Coordinate Frame for Robotic Task Generalization,
-     *Zhen Zeng, Pranav Joshi, Odest Chadwicke Jenkins*
-  * Scalable Real-Time and One-Shot Multiple-Affordance Detection,
-     *Eduardo Ruiz, Walterio Mayol-Cuevas*
-
-  
-  
 ### Invited speakers
 
   * [Yiannis Aloimonos](https://r1d1.github.io/iwcmar/speakers/aloimonos.html) (Perception and Robotics Group, University of Maryland)
@@ -138,6 +116,38 @@ Stay tuned for further announcements,
 | 15:30-16:00 | Invited talk                     |
 | 16:00-17:30 | Plenary discussion               |
 | 17:30       | Farewell                         |
+   
+
+### Papers
+
+The accepted papers are listed as follows:
+
+  * An Affordance-based Action Planner for On-line and Concurrent Human-Robot Collaborative Assembly,
+     *Francesca Stramandinoli, Alessandro Roncone, Olivier Mangin, Francesco Nori, and Brian Scassellati*
+  * A Benchmarking Dataset for Automatic Symbolic Grounding from Virtual Demonstrations,
+     *Karinne Ramirez-Amaro, Constantin Uhde, Tamas Bates, Gordon Cheng*
+  * Towards Affordance Prediction with Vision via Task Oriented Grasp Quality Metrics,
+     *Luca Cavalli, Gianpaolo Di Pietro, Matteo Matteucci*
+  * Systematizing Gibsonian affordances in robotics: an empirical, generative approach derived from case studies in legged locomotion,
+     *Sonia F. Roberts, Daniel Koditschek, Lisa Miracchi*
+  * Generating object forms with desired affordances,
+     *Mihai Andries, Atabak Dehban, José Santos-Victor*
+  * Unsupervised Learning of Affordance Coordinate Frame for Robotic Task Generalization,
+     *Zhen Zeng, Pranav Joshi, Odest Chadwicke Jenkins*
+  * Scalable Real-Time and One-Shot Multiple-Affordance Detection,
+     *Eduardo Ruiz, Walterio Mayol-Cuevas*
+
+
+### Program Committee
+  * Sayantan Auddy
+  * Simon M. Haller
+  * Bart Keulen
+  * Leni K. Le Goff
+  * Erwan Renaudo
+  * Antonio Rodriguez-Sanchez
+  * Philipp Zech
+  * Xiang Zhang
+  
     
 ### Venue
 
