@@ -1,5 +1,6 @@
 # José Santos-Victor
 
+<img style="float: left;width: 300px;margin-right: 15px;margin-top: 0px;" src="./jasv.png" alt='José Santos-Victor' />
 
 # Understanding and modeling object affordances with cognitive robotics
 
