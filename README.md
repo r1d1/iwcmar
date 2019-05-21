@@ -121,19 +121,19 @@ Stay tuned for further announcements,
 
 The accepted papers are listed as follows:
 
-  * [./papers/StramandinoliRMNS2019.pdf](An Affordance-based Action Planner for On-line and Concurrent Human-Robot Collaborative Assembly),
+  * [An Affordance-based Action Planner for On-line and Concurrent Human-Robot Collaborative Assembly](./papers/StramandinoliRMNS2019.pdf),
      *Francesca Stramandinoli, Alessandro Roncone, Olivier Mangin, Francesco Nori, and Brian Scassellati*
-  * [./papers/RamirezUBC2019.pdf](A Benchmarking Dataset for Automatic Symbolic Grounding from Virtual Demonstrations),
+  * [A Benchmarking Dataset for Automatic Symbolic Grounding from Virtual Demonstrations](./papers/RamirezUBC2019.pdf),
      *Karinne Ramirez-Amaro, Constantin Uhde, Tamas Bates, Gordon Cheng*
-  * [./papers/CavalliDM2019.pdf](Towards Affordance Prediction with Vision via Task Oriented Grasp Quality Metrics),
+  * [Towards Affordance Prediction with Vision via Task Oriented Grasp Quality Metrics](./papers/CavalliDM2019.pdf),
      *Luca Cavalli, Gianpaolo Di Pietro, Matteo Matteucci*
-  * [./papers/RobertsKM2019.pdf](Systematizing Gibsonian affordances in robotics: an empirical, generative approach derived from case studies in legged locomotion),
+  * [Systematizing Gibsonian affordances in robotics: an empirical, generative approach derived from case studies in legged locomotion](./papers/RobertsKM2019.pdf),
      *Sonia F. Roberts, Daniel Koditschek, Lisa Miracchi*
-  * [./papers/AndriesDS2019.pdf](Generating object forms with desired affordances),
+  * [Generating object forms with desired affordances](./papers/AndriesDS2019.pdf),
      *Mihai Andries, Atabak Dehban, José Santos-Victor*
-  * [./papers/ZengJJ2019.pdf](Unsupervised Learning of Affordance Coordinate Frame for Robotic Task Generalization),
+  * [Unsupervised Learning of Affordance Coordinate Frame for Robotic Task Generalization](./papers/ZengJJ2019.pdf),
      *Zhen Zeng, Pranav Joshi, Odest Chadwicke Jenkins*
-  * [./papers/RuizM20219.pdf](Scalable Real-Time and One-Shot Multiple-Affordance Detection),
+  * [Scalable Real-Time and One-Shot Multiple-Affordance Detection](./papers/RuizM20219.pdf),
      *Eduardo Ruiz, Walterio Mayol-Cuevas*
 
 
