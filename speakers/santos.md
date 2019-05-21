@@ -1,5 +1,13 @@
 # José Santos-Victor
 
-# Topic
-# Abstract
+
+# Understanding and modeling object affordances with cognitive robotics
+
+I will give an overview of recent research projects combining artificial vision and humanoid robotics to help understanding certain functions of the human cognition. Part of this work comprises modelling human behaviour in an interdisciplinary research involving engineering, computational neuroscience, and developmental psychology. 
+I will discuss the concept of object affordances, and how it can be modelled and used to endow humanoid robots with higher cognitive functionalities, namely action recognition, goal acquisition and social learning. I will describe our different research approaches for modelling and using object affordances and different ways how to extend that framework for language grounding and understanding tools. 
+During the talk, I will provide examples of the use of humanoid robots (with our first platform, Baltazar, the iCub, and our social robot Vizzy) as testbeds to study human cognition, learning and sensorimotor coordination and affordances, while offering engineers with new approaches to build artificial systems.
+
 # Biography
+José Santos-Victor is a Professor of Artificial Vision and Robotics at the Department of Electrical and Computer Engineering, Instituto Superior Técnico (IST) in Lisbon. He is a researcher of the Institute of Systems and Robotics (ISR-Lisbon), where he founded the VisLab - Computer and Robot Vision Laboratory. He is the President of ISR-Lisbon, home to 50+ doctoral researchers and 90 PhD students. He is the coordinator of the Associated Laboratory of Robotics and Engineering Systems (LARSyS, since November 2016) and vice-president for research the Department of Electrical and Computer Engineering of IST (since January 2017).
+His research interests are computer vision, robotics and learning systems, namely the link between perception and action. He has developed research that involves models of biological systems and the design of biologically plausible artificial systems, including humanoid robots with human-inspired cognitive and learning capabilities. He was the scientific responsible for the participation of ISR-Lisbon/IST in several national and European projects in the field of robotics and artificial vision. His team was one of the co-designers of the iCub robot in the EU Project Robotcub.
+He was associate editor of the journals IEEE Transactions on Robotics and Journal of Robotics and Autonomous Systems. He was a national delegate to ESA's space exploration program. He coordinates the International Doctoral Program Robotics, Brain and Cognition and is the current Director of the Mind-Brain College of the University of Lisbon. He was the IST vice president for international affairs between 2006 and 2015 and Secretary General of the European network CLUSTER between July 2010 and June 2012. 
