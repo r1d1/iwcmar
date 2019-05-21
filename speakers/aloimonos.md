@@ -1,6 +1,6 @@
 # Yiannis Aloimonos
 
-<img style="float: right;" src="https://www.umiacs.umd.edu/sites/default/files/styles/medium/public/web-aloimonos.jpg" alt='Yiannis Aloimonos' />
+<img style="float: left;width: 300px;margin-right: 15px;margin-top: 0px;" src="https://www.umiacs.umd.edu/sites/default/files/styles/medium/public/web-aloimonos.jpg" alt='Yiannis Aloimonos' />
 
 # The Language of Forces: A compositional theory for affordance and action
 Object affordances are dependent on whether the object can participate in a number of actions. Actions on the other hand, for example anything we do with our hands, amount to the transfer of a force from our hands (and or body) to a tool and/or object. There is an alphabet and a language of pattern forces. The alphabet consists of primitive force patterns and the language consists of a grammar (i.e. a set of rules) for putting together the primitives into “words” and “sentences” which represent “components of the action” and the “whole action” respectively. In this talk I present a theory for learning the language of forces.
