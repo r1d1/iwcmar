@@ -90,8 +90,8 @@ The Special Issue page is available [here](https://www.frontiersin.org/research-
   * [Tamim Asfour](https://r1d1.github.io/iwcmar/speakers/asfour.html) (High Performance Humanoid Technologies, Karlsruhe Institute of Technology)
   * [Paul Cisek](https://r1d1.github.io/iwcmar/speakers/cisek.html) (Department of Neuroscience, University of Montréal)
   * [Claire Michaels](https://r1d1.github.io/iwcmar/speakers/michaels.html) (Centre for the Ecological Study of Perception and Action, University of Connecticut)
-  * [Erol Sahin](https://r1d1.github.io/iwcmar/speakers/sahin.html) (KOVAN Research Lab, Middle East Technical University, Turkey)
   * [José Santos-Victor](https://r1d1.github.io/iwcmar/speakers/santos.html) (Computer and Robot Vision Lab (VisLab), Instituto Superior Técnico, Lisboa)
+  * Cancelled: ~[Erol Sahin](https://r1d1.github.io/iwcmar/speakers/sahin.html) (KOVAN Research Lab, Middle East Technical University, Turkey)~
   
   
 ### Tentative schedule
@@ -103,19 +103,18 @@ Stay tuned for further announcements,
 | Time        | Activity                         |
 | --- | --- |
 | 08:45-09:00 | Welcome                          |
-| 09:00-09:30 | Invited Talk                     |
-| 09:30-10:00 | Invited Talk                     |
+| 09:00-09:30 | Invited Talk: Claire Michaels    |
+| 09:30-10:00 | Invited Talk: Paul Cisek         |
 | 10:00-10:30 | Coffee break                     |
-| 10:30-11:00 | Invited Talk                     |
-| 11:00-11:30 | Invited Talk                     |
-| 11:30-12:00 | Invited Talk                     |
+| 10:30-11:00 | Invited Talk: José Santos-Victor |
+| 11:00-11:30 | Invited Talk: Tamim Asfour       |
+| 11:30-12:00 | Invited Talk: Yiannis Aloimonos  |
 | 12:00-12:30 | Poster Spotlight                 |
 | 12:30-13:30 | Lunch break                      |
 | 13:30-15:00 | Poster session & discussions     |
 | 15:00-15:30 | Coffee break                     |
-| 15:30-16:00 | Invited talk                     |
-| 16:00-17:30 | Plenary discussion               |
-| 17:30       | Farewell                         |
+| 15:30-17:00 | Plenary discussion               |
+| 17:00       | Farewell                         |
    
 
 ### Papers
