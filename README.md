@@ -94,11 +94,9 @@ The Special Issue page is available [here](https://www.frontiersin.org/research-
   * Cancelled: ~[Erol Sahin](https://r1d1.github.io/iwcmar/speakers/sahin.html) (KOVAN Research Lab, Middle East Technical University, Turkey)~
   
   
-### Tentative schedule
+### Program
 
-The final schedule will be publish upon finalization of the list of speakers. 
-
-Stay tuned for further announcements,
+You can find here the final schedule for the workshop.
 
 | Time        | Activity                         |
 | --- | --- |
