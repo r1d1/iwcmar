@@ -133,7 +133,7 @@ The accepted papers are listed as follows:
      *Mihai Andries, Atabak Dehban, José Santos-Victor*
   * [Unsupervised Learning of Affordance Coordinate Frame for Robotic Task Generalization](./papers/ZengJJ2019.pdf),
      *Zhen Zeng, Pranav Joshi, Odest Chadwicke Jenkins*
-  * [Scalable Real-Time and One-Shot Multiple-Affordance Detection](./papers/RuizM20219.pdf),
+  * [Scalable Real-Time and One-Shot Multiple-Affordance Detection](./papers/RuizM2019.pdf),
      *Eduardo Ruiz, Walterio Mayol-Cuevas*
 
 
