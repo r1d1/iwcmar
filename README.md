@@ -101,17 +101,17 @@ You can find here the final schedule for the workshop.
 | Time        | Activity                         |
 | --- | --- |
 | 08:45-09:00 | Welcome                          |
-| 09:00-09:30 | Invited Talk: Claire Michaels    |
-| 09:30-10:00 | Invited Talk: Paul Cisek         |
+| 09:00-09:30 | **Invited Talk:** Claire Michaels    |
+| 09:30-10:00 | **Invited Talk:** Paul Cisek         |
 | 10:00-10:30 | Coffee break                     |
-| 10:30-11:00 | Invited Talk: José Santos-Victor |
-| 11:00-11:30 | Invited Talk: Tamim Asfour       |
-| 11:30-12:00 | Invited Talk: Yiannis Aloimonos  |
-| 12:00-12:30 | Poster Spotlight                 |
+| 10:30-11:00 | **Invited Talk:** José Santos-Victor |
+| 11:00-11:30 | **Invited Talk:** Tamim Asfour       |
+| 11:30-12:00 | **Invited Talk:** Yiannis Aloimonos  |
+| 12:00-12:30 | *Poster Spotlight*                 |
 | 12:30-13:30 | Lunch break                      |
-| 13:30-15:00 | Poster session & discussions     |
+| 13:30-15:00 | **Poster session & discussions**     |
 | 15:00-15:30 | Coffee break                     |
-| 15:30-17:00 | Plenary discussion               |
+| 15:30-17:00 | **Plenary discussion**               |
 | 17:00       | Farewell                         |
    
 
